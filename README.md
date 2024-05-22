@@ -44,11 +44,10 @@ Table of contents✅✔
      * 🥇[Project Video📺](#video-image-of-the-app-)
     
    * 🎁[`CONNECT ME🎃`](#connect-me)
-   * 
 <!--te-->
 <h1 align="center">Hand Tracking🙌🏽</h1>
 <p align="center">
-<img src="https://github.com/jokernets/hand-tracking/blob/main/landmark.png" width="300" height="300">
+<img src="https://github.com/imfallah/hand-tracking/blob/main/public/landmark.png" width="300" height="300">
 </p>
 
 `Hand recognition is a machine vision` task that involves identifying and tracking hands in digital images or video streams. This task is challenging due to the variability in hand appearance and the complex movements the hands can perform. Hand recognition in various programs such as:
@@ -220,4 +219,4 @@ if __name__ == "__main__":
 # `𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐌𝐞`🎈🎃
 
 <a herf="https://www.buymeacoffee.com/jokernets"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png" alt="Buy Me A Coffee" width="180px">
-<a href="mailto:joker.until33@gmail.com"><img align="center" width="60px" src="https://github.com/edent/SuperTinyIcons/raw/master/images/svg/gmail.svg" style="max-width: 100%;"></a><a href="https://www.linkedin.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammadfallahnejad/" height="40" width="60" /></a>
+<a href="mailto:joker.until33@gmail.com"><img align="center" width="60px" src="https://github.com/edent/SuperTinyIcons/raw/master/images/svg/gmail.svg" style="max-width: 100%;"></a><a href="https://www.linkedin.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/imfallah/" height="40" width="60" /></a>
