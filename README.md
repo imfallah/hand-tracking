@@ -33,11 +33,12 @@ Table of contents✅✔
    * 🔸[Installation⚠](#installation)
 
    * 🔸[About Code👨🏽‍💻](#analiys-code-)
-     * 💫[importing]()
-     * 💫[Find Detector]()
-     * 💫[find Hand]()
-     * 💫[find pose]()
-     * 💫[Main]()
+     * 💫[importing](#0%EF%B8%8F%E2%83%A3importing)
+     * 💫[Find Detector](#hand-detector)
+     * 💫[find Hand](#1%EF%B8%8F%E2%83%A3find-hand)
+     * 💫[find pose](#2%EF%B8%8F%E2%83%A3find-pose)
+     * 💫[Main](#3%EF%B8%8F%E2%83%A3main-)
+
 
    * 🔸[Mor Example💯🌏](#more-examples-and-showcase-)
      * 🥇[Project Video📺](#video-image-of-the-app-)
@@ -209,12 +210,12 @@ if __name__ == "__main__":
 
 
 ## More Examples and Showcase 👑
-<img src="">
-### Video image of the APP 📺
+
+<img src="https://github.com/imfallah/hand-tracking/blob/main/pic2.png" width=300px>
+
+<img src="https://github.com/imfallah/hand-tracking/blob/main/public/Untitled%20Project.gif" width=300px>
 
 
-
-<img src="">
 
 # `𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐌𝐞`🎈🎃
 
