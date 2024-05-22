@@ -3,8 +3,8 @@
 
 
 
-### 🌏 Readme in [فارسی](https://github.com/jokernets/hand-tracking/tree/main/Fa.md)
-
+### 🌏 Readme in [فارسی](https://github.com/imfallah/hand-tracking/blob/main/Translation/Fa.md)
+### check [requriments](https://github.com/imfallah/hand-tracking/blob/main/requriments.md)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <p align="center">
@@ -34,7 +34,7 @@ Table of contents✅✔
 
    * 🔸[About Code👨🏽‍💻](#analiys-code-)
      * 💫[importing](#0%EF%B8%8F%E2%83%A3importing)
-     * 💫[Find Detector](#hand-detector)
+     * 💫[hand Detector](#hand-detector)
      * 💫[find Hand](#1%EF%B8%8F%E2%83%A3find-hand)
      * 💫[find pose](#2%EF%B8%8F%E2%83%A3find-pose)
      * 💫[Main](#3%EF%B8%8F%E2%83%A3main-)
@@ -76,6 +76,11 @@ pip insall opencv-python
 pip install mediapipe
 pip install time
 ```
+
+> [!CAUTION]
+> 
+> - If you have an error in this section, it is necessary `check` [requriments](https://github.com/imfallah/hand-tracking/blob/main/requriments.md)
+
 
 Update existing installation:`pip3 install (YOUR LIBRARY) --upgrade`
 (update as often as possible because this library is under active development)
